@@ -23,7 +23,7 @@ JSON
 
 
 **** interview common questioin
-1. What is an api
+1. What is an api?
 2. What are the HTTPmethods supported by REST?
 3. Can you use GET request instead of PUT to create a resource?
 4. What is the difference between PUT and POST?
