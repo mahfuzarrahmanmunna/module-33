@@ -1,4 +1,4 @@
-**Interview Question
+## Interview Question
 1. Tell me something about JS engine v8 internal mechanism?
 2. What is event loop JavaScript?
 3. If javaScript is single threaded, how dows it handle asynchronous call?
@@ -11,3 +11,12 @@
 
 
 ## Practice Task -1
+a) Write a function that displays a message after 5s.
+b) Write a function called delayedGreeting() that takes two parameters, name and delay time, and logs a greeting message after the given delay time.
+
+## input:
+delayGreeting('Alice", 2000)
+
+
+## output:
+Hello, Alice!
