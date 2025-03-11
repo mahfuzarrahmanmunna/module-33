@@ -16,7 +16,7 @@ const handleUser2 = async () => {
         console.log(data)
     }
     catch {
-        console.log('hi error.')
+        // console.log('hi error.')
     }
 }
-handleUser2()
+// handleUser2()

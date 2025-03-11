@@ -46,4 +46,4 @@ const loadData2 = async () => {
         console.log('error', err)
     }
 }
-loadData2()
+// loadData2()
