@@ -11,8 +11,8 @@
 
 
 ## Practice Task -1
-a) Write a function that displays a message after 5s.
-b) Write a function called delayedGreeting() that takes two parameters, name and delay time, and logs a greeting message after the given delay time.
+1. Write a function that displays a message after 5s.
+2. Write a function called delayedGreeting() that takes two parameters, name and delay time, and logs a greeting message after the given delay time.
 
 ## input:
 delayGreeting('Alice", 2000)
